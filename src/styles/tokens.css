@@ -1,0 +1,27 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --action-button-primary-padding-l: 28px;
+  --action-button-primary-padding-t: 16px;
+  --action-button-primary-padding-r: 28px;
+  --action-button-primary-padding-b: 16px;
+  --action-button-primary-radius-t-l: 32px;
+  --action-button-primary-radius-t-r: 32px;
+  --action-button-primary-radius-b-l: 32px;
+  --action-button-primary-radius-b-r: 32px;
+  --action-button-primary-border-default: 1px;
+  --action-button-primary-button-min-w: 128px;
+  --background-bg-primary-default: #FFD700FF;
+  --border-bdr-primary-default: #FFFFFF00;
+  --foreground-fg-primary-on-it-default: #002E3CFF;
+  --typo-name-gotham: Gotham;
+  --typo-weight-medium: 500;
+  --typo-size-style6: 15px;
+  --typo-line-height-lh-6: 24px;
+  --typo-letter-spacing-ls-6: 0.1px;
+  --unbound-gap: 12px;
+  --unbound-icon-width: 24px;
+  --unbound-icon-height: 24px;
+}

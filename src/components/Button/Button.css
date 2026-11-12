@@ -1,0 +1,32 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--unbound-gap);
+  box-sizing: border-box;
+  min-width: var(--action-button-primary-button-min-w);
+  padding: var(--action-button-primary-padding-t) var(--action-button-primary-padding-r)
+    var(--action-button-primary-padding-b) var(--action-button-primary-padding-l);
+  border: var(--action-button-primary-border-default) solid var(--border-bdr-primary-default);
+  border-radius: var(--action-button-primary-radius-t-l) var(--action-button-primary-radius-t-r)
+    var(--action-button-primary-radius-b-r) var(--action-button-primary-radius-b-l);
+  background: var(--background-bg-primary-default);
+  color: var(--foreground-fg-primary-on-it-default);
+  font-family: var(--typo-name-gotham), sans-serif;
+  font-weight: var(--typo-weight-medium);
+  font-size: var(--typo-size-style6);
+  line-height: var(--typo-line-height-lh-6);
+  letter-spacing: var(--typo-letter-spacing-ls-6);
+  cursor: pointer;
+}
+
+.btn__icon {
+  display: inline-flex;
+  width: var(--unbound-icon-width);
+  height: var(--unbound-icon-height);
+}
+
+.btn__icon > svg {
+  width: 100%;
+  height: 100%;
+}
